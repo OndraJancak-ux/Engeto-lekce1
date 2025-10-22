@@ -1,0 +1,5 @@
+jmeno = input("Uživatelské jméno: ")
+věk = input("Zadejte Váš věk:")
+print("Ahoj " + jmeno + ", je Vám " + věk, "let")
+#print("Váš věk je " + věk, "let")
+#print("Typ zadaného vstupu je: " + str(type(jmeno)))
